@@ -1,0 +1,14 @@
+{
+    "account_number": "ATM10001",
+    "name": "Kailash",
+    "pin": "1234",
+    "balance": 5800.0,
+    "transactions": [
+        {
+            "date": "2026-09-23 22:54:02",
+            "type": "Deposit",
+            "amount": 800.0,
+            "balance_after": 5800.0
+        }
+    ]
+}
